@@ -1,3 +1,6 @@
+# ClassMate - Stanford Treehacks 2023
+Created by Jennifer Truong, Wini Aboyure, and Kenan Erol on January 2023
+
 ## Inspiration
 ClassMate was inspired by the boom of OpenAI and ChatGPT. We sought a way to integrate the powerful tool of ChatGPT into classrooms to help students further explore academic concepts while also mitigating cheating and abuse of the AI tool.
 
